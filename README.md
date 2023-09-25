@@ -1,2 +1,3 @@
 # codsoft-Task1-titanic
-jj
+CHeck out the machine learning code
+
